@@ -1,5 +1,6 @@
-#Materiały z kursu **Architecting Microsoft Azure Solutions**
-#Szkoła Chmury
+#Materiały z kursu 
+#**Architecting Microsoft Azure Solutions**
+#Szkoła Chmury 2018
 
 ---
 
