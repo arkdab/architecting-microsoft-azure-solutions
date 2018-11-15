@@ -4,12 +4,12 @@
     "resources": [
         {
             "apiVersion": "2017-05-10",
-            "name": "linkedTemplate1",
+            "name": "linkedTemplateFromBitBucket",
             "type": "Microsoft.Resources/deployments",
             "properties": {
                 "mode": "Incremental",
                 "templateLink": {
-                    "uri": "https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/101-vnet-two-subnets/azuredeploy.json",
+                    "uri": "https://bitbucket.org/ardab/architecting-microsoft-azure-solutions/src/master/week3/tydzien3.2/virtualnet.json",
                     "contentVersion": "1.0.0.0"
                 }
             }
