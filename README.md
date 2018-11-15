@@ -1,9 +1,29 @@
-#Materiały z kursu 
-#**Architecting Microsoft Azure Solutions**
-#Szkoła Chmury 2018
+**Architecting Microsoft Azure Solutions**  
+Szkoła Chmury 2018  
+# Materiały z kursu
+## Tydzień 3
+### TYDZIEN3.1 
+***„Zbuduj prostą konwencję nazewniczą dla min. takich zasobów jak Grupa Zasobów, VNET, Maszyn Wirtualna, Dysk, Konta składowania danych. Pamiętaj o ograniczeniach w nazywaniu zasobów, które występują w Azure”***
+
+Konwencja nazewnicza:  
+\<project>-\<modul>-\<version>  
+projekt - 4 znaki  
+moduł - max. 12 znaków  
+wersja - 4 znaki
+### TYDZIEN3.2  
+***„ Zbuduj prosty ARM Template (możesz wykorzystać już gotowe wzorce z GitHub), który wykorzystuje koncepcję Linked Templates. Template powinien zbudować środowisko złożone z jednej sieci VNET, podzielonej na dwa subnety. W każdy subnecie powinna powstać najprostsza maszyna wirtualna z systemem Ubuntu 18.04 a na każdym subnecie powinny zostać skonfigurowane NSG.”***
+
+
+
+
+
+
+
+
+
+
 
 ---
-
 **Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**
 
 When you're done, you can delete the content in this README and update the file with details for others getting started with your repository.
