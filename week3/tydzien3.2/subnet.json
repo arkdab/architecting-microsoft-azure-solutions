@@ -59,7 +59,6 @@
             "type": "Microsoft.Network/virtualNetworks/subnets",
             "location": "[parameters('location')]",
             "name": "subnet"
-            }
         }
     ]
 }

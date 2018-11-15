@@ -10,8 +10,8 @@
                 "mode": "Incremental",
                 "templateLink": {
                     "uri": "https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/101-vnet-two-subnets/azuredeploy.json",
-                    "contentVersion":"1.0.0.0"
-                 }
+                    "contentVersion": "1.0.0.0"
+                }
             }
         },
         {
@@ -22,15 +22,14 @@
                 "mode": "Incremental",
                 "templateLink": {
                     "uri": "https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/101-vnet-two-subnets/azuredeploy.json",
-                    "contentVersion":"1.0.0.0"
-                 },
-                 "parameters":{
-                     "vnetName": {
-                         "value":"SecoundNet"
-                        }
-                 }
-
+                    "contentVersion": "1.0.0.0"
+                },
+                "parameters": {
+                    "vnetName": {
+                        "value": "SecoundNet"
+                    }
+                }
             }
         }
-      ]
+    ]
 }
