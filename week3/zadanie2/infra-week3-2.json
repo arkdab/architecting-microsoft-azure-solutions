@@ -9,7 +9,7 @@
             "properties": {
                 "mode": "Incremental",
                 "templateLink": {
-                    "uri": "https://bitbucket.org/ardab/architecting-microsoft-azure-solutions/src/master/week3/tydzien3.2/virtualnet.json",
+                    "uri": "https://bitbucket.org/ardab/architecting-microsoft-azure-solutions/src/master/week3/zadanie2/virtualnet.json",
                     "contentVersion": "1.0.0.0"
                 }
             }
