@@ -9,25 +9,8 @@
             "properties": {
                 "mode": "Incremental",
                 "templateLink": {
-                    "uri": "https://bitbucket.org/ardab/architecting-microsoft-azure-solutions/src/master/week3/zadanie2/virtualnet.json",
+                    "uri": "https://github.com/arkdab/architecting-microsoft-azure-solutions/blob/master/week3/zadanie2/virtualnet1.json",
                     "contentVersion": "1.0.0.0"
-                }
-            }
-        },
-        {
-            "apiVersion": "2017-05-10",
-            "name": "linkedTemplate2",
-            "type": "Microsoft.Resources/deployments",
-            "properties": {
-                "mode": "Incremental",
-                "templateLink": {
-                    "uri": "https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/101-vnet-two-subnets/azuredeploy.json",
-                    "contentVersion": "1.0.0.0"
-                },
-                "parameters": {
-                    "vnetName": {
-                        "value": "SecoundNet"
-                    }
                 }
             }
         }
